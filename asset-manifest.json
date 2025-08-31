@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/RRR1/static/css/main.70d4ebdb.css",
-    "main.js": "/RRR1/static/js/main.bfc11295.js",
+    "main.css": "/RRR1/static/css/main.442dcf4e.css",
+    "main.js": "/RRR1/static/js/main.6e405add.js",
     "static/media/photo_2025-08-11_02-33-45.jpg": "/RRR1/static/media/photo_2025-08-11_02-33-45.94f5db166155e5be3bfe.jpg",
     "static/media/photo_2025-06-01_03-07-34.jpg": "/RRR1/static/media/photo_2025-06-01_03-07-34.bf10142aab2f79cb7947.jpg",
     "static/media/photo_2025-05-25_00-22-14.jpg": "/RRR1/static/media/photo_2025-05-25_00-22-14.5ad397aa01a12c22fd10.jpg",
@@ -22,11 +22,11 @@
     "static/media/photo_2025-07-30_01-32-52 (2).jpg": "/RRR1/static/media/photo_2025-07-30_01-32-52 (2).f49d1f0a9736b7f200d9.jpg",
     "static/media/photo_2025-07-23_20-02-32.jpg": "/RRR1/static/media/photo_2025-07-23_20-02-32.e52fe5826266017a8261.jpg",
     "index.html": "/RRR1/index.html",
-    "main.70d4ebdb.css.map": "/RRR1/static/css/main.70d4ebdb.css.map",
-    "main.bfc11295.js.map": "/RRR1/static/js/main.bfc11295.js.map"
+    "main.442dcf4e.css.map": "/RRR1/static/css/main.442dcf4e.css.map",
+    "main.6e405add.js.map": "/RRR1/static/js/main.6e405add.js.map"
   },
   "entrypoints": [
-    "static/css/main.70d4ebdb.css",
-    "static/js/main.bfc11295.js"
+    "static/css/main.442dcf4e.css",
+    "static/js/main.6e405add.js"
   ]
 }
