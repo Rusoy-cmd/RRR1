@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/RRR1/static/css/main.286e7a32.css",
-    "main.js": "/RRR1/static/js/main.50412e89.js",
+    "main.css": "/RRR1/static/css/main.fdba117d.css",
+    "main.js": "/RRR1/static/js/main.42c5dc4c.js",
     "static/media/photo_2025-08-11_02-33-45.jpg": "/RRR1/static/media/photo_2025-08-11_02-33-45.94f5db166155e5be3bfe.jpg",
     "static/media/photo_2025-06-01_03-07-34.jpg": "/RRR1/static/media/photo_2025-06-01_03-07-34.bf10142aab2f79cb7947.jpg",
     "static/media/photo_2025-05-25_00-22-14.jpg": "/RRR1/static/media/photo_2025-05-25_00-22-14.5ad397aa01a12c22fd10.jpg",
@@ -14,7 +14,6 @@
     "static/media/photo_2025-06-19_00-32-08.jpg": "/RRR1/static/media/photo_2025-06-19_00-32-08.ce727532dfae223fecdb.jpg",
     "static/media/photo_2025-08-03_20-13-45.jpg": "/RRR1/static/media/photo_2025-08-03_20-13-45.c0fc97c3c460674d4c6e.jpg",
     "static/media/photo_2025-07-24_23-58-14.jpg": "/RRR1/static/media/photo_2025-07-24_23-58-14.3869a7ddff3618059ec9.jpg",
-    "static/media/photo_2025-06-19_00-32-06.jpg": "/RRR1/static/media/photo_2025-06-19_00-32-06.6386f60f671d04aaa167.jpg",
     "static/media/photo_2025-07-30_01-32-52.jpg": "/RRR1/static/media/photo_2025-07-30_01-32-52.3984f7fe34cda607d0c8.jpg",
     "static/media/photo_2025-08-03_20-14-09.jpg": "/RRR1/static/media/photo_2025-08-03_20-14-09.9ec7b352226827a590a6.jpg",
     "static/media/photo_2025-06-01_03-07-18.jpg": "/RRR1/static/media/photo_2025-06-01_03-07-18.9941dc90e9470bb3b0c2.jpg",
@@ -23,11 +22,11 @@
     "static/media/photo_2025-07-30_01-32-52 (2).jpg": "/RRR1/static/media/photo_2025-07-30_01-32-52 (2).f49d1f0a9736b7f200d9.jpg",
     "static/media/photo_2025-07-23_20-02-32.jpg": "/RRR1/static/media/photo_2025-07-23_20-02-32.e52fe5826266017a8261.jpg",
     "index.html": "/RRR1/index.html",
-    "main.286e7a32.css.map": "/RRR1/static/css/main.286e7a32.css.map",
-    "main.50412e89.js.map": "/RRR1/static/js/main.50412e89.js.map"
+    "main.fdba117d.css.map": "/RRR1/static/css/main.fdba117d.css.map",
+    "main.42c5dc4c.js.map": "/RRR1/static/js/main.42c5dc4c.js.map"
   },
   "entrypoints": [
-    "static/css/main.286e7a32.css",
-    "static/js/main.50412e89.js"
+    "static/css/main.fdba117d.css",
+    "static/js/main.42c5dc4c.js"
   ]
 }
